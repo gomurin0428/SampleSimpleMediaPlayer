@@ -1,0 +1,4 @@
+﻿  CPlayer.cpp
+  CPlayer.obj : MSIL モジュールが見つかりました。MSIL ではインクリメンタル リンクは無効化されています。フル リンクを行います
+     ライブラリ C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SampleSimpleMediaPlayer.lib とオブジェクト C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SampleSimpleMediaPlayer.exp を作成中
+  SampleSimpleMediaPlayer.vcxproj -> C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SampleSimpleMediaPlayer.dll

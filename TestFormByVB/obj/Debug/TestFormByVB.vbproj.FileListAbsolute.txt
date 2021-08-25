@@ -1,0 +1,17 @@
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.Resources.resources
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.vbproj.GenerateResource.cache
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.vbproj.CoreCompileInputs.cache
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\TestFormByVB.exe.config
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\TestFormByVB.exe
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\TestFormByVB.pdb
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\TestFormByVB.xml
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.Form1.resources
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.exe
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.xml
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.pdb
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.vbproj.CopyComplete
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\obj\Debug\TestFormByVB.vbproj.AssemblyReference.cache
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\SimpleMediaPlayer.dll
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\SimpleMediaPlayer.pdb
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\SampleSimpleMediaPlayer.dll
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\TestFormByVB\bin\Debug\SampleSimpleMediaPlayer.pdb

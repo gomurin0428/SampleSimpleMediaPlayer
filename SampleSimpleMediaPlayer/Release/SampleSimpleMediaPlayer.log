@@ -1,0 +1,15 @@
+﻿  CPlayer.cpp
+     ライブラリ C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Release\SampleSimpleMediaPlayer.lib とオブジェクト C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Release\SampleSimpleMediaPlayer.exp を作成中
+CPlayer.obj : error LNK2001: 外部シンボル _MFShutdown@0 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateAudioRendererActivate@4 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateVideoRendererActivate@8 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MF_EVENT_TOPOLOGY_STATUS は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateTopology@4 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFMediaType_Video は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFMediaType_Audio は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateSourceResolver@4 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFStartup@8 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateMediaSession@8 は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル _MFCreateTopologyNode@8 は未解決です
+MSVCRT.lib(exe_main.obj) : error LNK2001: 外部シンボル _main は未解決です
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Release\SampleSimpleMediaPlayer.exe : fatal error LNK1120: 12 件の未解決の外部参照

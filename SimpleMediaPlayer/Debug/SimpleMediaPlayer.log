@@ -1,0 +1,4 @@
+﻿  MediaPlayer.cpp
+  MediaPlayer.obj : MSIL モジュールが見つかりました。MSIL ではインクリメンタル リンクは無効化されています。フル リンクを行います
+     ライブラリ C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SimpleMediaPlayer.lib とオブジェクト C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SimpleMediaPlayer.exp を作成中
+  SimpleMediaPlayer.vcxproj -> C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\Debug\SimpleMediaPlayer.dll

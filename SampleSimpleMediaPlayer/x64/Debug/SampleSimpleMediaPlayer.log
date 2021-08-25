@@ -1,0 +1,14 @@
+﻿  CPlayer.cpp
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFStartup が関数 "protected: long __cdecl CPlayer::Initialize(void)" (?Initialize@CPlayer@@IEAAJXZ) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFShutdown が関数 "public: long __cdecl CPlayer::Shutdown(void)" (?Shutdown@CPlayer@@QEAAJXZ) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateMediaSession が関数 "protected: long __cdecl CPlayer::CreateSession(void)" (?CreateSession@CPlayer@@IEAAJXZ) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateSourceResolver が関数 "private: long __cdecl CPlayer::CreateMediaSource(wchar_t const *,struct IMFMediaSource * *)" (?CreateMediaSource@CPlayer@@AEAAJPEB_WPEAPEAUIMFMediaSource@@@Z) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateTopology が関数 "private: long __cdecl CPlayer::CreatePlaybackTopology(struct IMFMediaSource *,struct IMFPresentationDescriptor *,struct HWND__ *,struct IMFTopology * *)" (?CreatePlaybackTopology@CPlayer@@AEAAJPEAUIMFMediaSource@@PEAUIMFPresentationDescriptor@@PEAUHWND__@@PEAPEAUIMFTopology@@@Z) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateTopologyNode が関数 "private: long __cdecl CPlayer::AddOutputNode(struct IMFTopology *,struct IMFActivate *,unsigned long,struct IMFTopologyNode * *)" (?AddOutputNode@CPlayer@@AEAAJPEAUIMFTopology@@PEAUIMFActivate@@KPEAPEAUIMFTopologyNode@@@Z) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateAudioRendererActivate が関数 "private: long __cdecl CPlayer::CreateMediaSinkActivate(struct IMFStreamDescriptor *,struct HWND__ *,struct IMFActivate * *)" (?CreateMediaSinkActivate@CPlayer@@AEAAJPEAUIMFStreamDescriptor@@PEAUHWND__@@PEAPEAUIMFActivate@@@Z) で参照されました
+CPlayer.obj : error LNK2019: 未解決の外部シンボル MFCreateVideoRendererActivate が関数 "private: long __cdecl CPlayer::CreateMediaSinkActivate(struct IMFStreamDescriptor *,struct HWND__ *,struct IMFActivate * *)" (?CreateMediaSinkActivate@CPlayer@@AEAAJPEAUIMFStreamDescriptor@@PEAUHWND__@@PEAPEAUIMFActivate@@@Z) で参照されました
+CPlayer.obj : error LNK2001: 外部シンボル MF_EVENT_TOPOLOGY_STATUS は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル MFMediaType_Audio は未解決です
+CPlayer.obj : error LNK2001: 外部シンボル MFMediaType_Video は未解決です
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+C:\Users\gomur\source\repos\SampleSimpleMediaPlayer\x64\Debug\SampleSimpleMediaPlayer.exe : fatal error LNK1120: 12 件の未解決の外部参照
